@@ -1,0 +1,41 @@
+*{
+    font-family: 'Nunito', sans-serif;
+}
+
+.navbar-brand{
+    font-weight: 700;
+}
+
+.button-secondary{
+    background-color: #5ECD81;
+    border: none;
+    color: #ffff;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.button-primer{
+    background-color: #238878;
+    border: none;
+    color: #ffff;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.nav-link.active{
+    font-weight: 500;
+}
+
+.span{
+    text-align: center;
+}
+
+.block{
+    background-color: #EDF8FC;
+    color: #424242;
+    text-align: center;
+}
